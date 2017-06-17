@@ -1,0 +1,61 @@
+Archetypes
+
+drafting on this sryle is the most difficult, as it requires knowledge of the deck you are attempting to build, the skill to draft around missing cards, and enough luck to get as many important pieces as possible.
+
+really, an archetype is less a deck and more a concept or ideal. [[go into this more]]
+
+archetype draftkng is, at its core, very simple. it is a 5 step process
+
+1 you review the cards in the set
+2 you determine the best decks that can be built
+3 you "fuzz" the decks, to allow for chance (these are the archetypes)
+4 after fuzzing, you should have a good idea what the core cards for each deck are. if not, determine thosw core pieces
+5 you draft one of those archetypes
+
+the complexity comes into play when you break down eacj step. 
+
+"review the cards in the set". simple enough, actually, just a long process as there are usually 200-300 cards in a set 
+
+"determine the best decks". this is where things get tough. how do we define "best"? is it merely a replacement for "powerful"? foreck "synergous"? this defknition is pretty subjective, but the objective of this step is always the same. find a few ds (try to hit all the colours) that work very well. some exaples are:
+    blue white zomnies 
+	green black -1/-1
+	red black aggro 
+	
+"fuzz the deck". here, you work out what the core pieces of the decks are. what pieces are necessary for tjis functino? what pieces are flexible? what concepts or keywords must be in the deck? what truly makes the deck shine?
+
+for example, lets take UW zombies. well, there are no real core cards. as long as you have a lot of blue and wjite creatures with embalm, youre good to go. from tjis conclusipn, we an say that all the pieces are flexible, however the keyword "embalm" is a necessity. as flr what makes tje dwck really sjine, we can say that tje token dounler excels here, as does the white black zlmbie that drains your opponents life. now, wjen you go draft, ylu have tnis archetype to work towarss.
+ 
+now, lets also look at GB -1/-1 tribal. truly, the deck is lackluster without hapatra. therefore, she is the core of the deck snd shou,d be picked over other pieces. after tjat core, the concept that must be im the deck is -1/-1. things like [[nsme some cards]]. those pieces are very flexinle. if you cannto get enough pf these, jow sjould you proceed? the deck does not have many creautres, so removal and some cjeap creatures are good cjoices. jow to make the deck excel? the red black minotaur that puts -1/-1 counters on creatures woild do great, as would card draw. you wou,d have a pretty good chance of havimg the green gld be able to attack. 
+	
+	blue wjite zombies
+	    core cards are the embalm ceearures. bonus cards are token doublers and lords.
+	green black -1/-1 tribal
+	    core card is really hapatra, then enough tribal to make it work 
+    red black aggro
+	    core cards are efficient creatures. bonus cards are tjings like the minoutaur that is removal, burn, and removal
+		
+as you can see, these decks are powerful, nut can be difficult to draft. therefore, you have to be deciskve enough to stick with an archerype once you begin drafting it, wji.e flexinle enough to deviate from the archetype.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

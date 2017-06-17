@@ -1,0 +1,104 @@
+Quadrants
+
+[[Have a chapter after these three that says something like "After a lot of practice, you will think to yourself 'These theories are all wrong, I have a better way of picking', and you may be right. However, these theorie have been crafted by experts wirth yearsd of experience, so at the very least try to incorporate them into your style"
+or "After a lot of drafting you will come to develop your own style of drafting. This is fine. There is no 'Best' theory, at least not yet, and no way of always drafting a perfect deck"]]
+[[I should also have a small chapter on some MtG theory like tempo
+http://mtg.gamepedia.com/Category:Magic_theory]]
+[[A quick chapter about the basics
+https://1d4chan.org/wiki/Magic:_The_Gathering_Gameplay_Principles]]
+[[Have a very short chapter before these three talking about some misc evaluation teqnieus. Actually, have it after.
+The vanilla test. Find that tappedout post where the guy defines an actual formula to use. The purpose of the vanilla test is to define a baseline for continued evalutation. If it has a good CMC to PT ratio, it starts at a better evaluation point than a card like sconrful egoist.
+The setup cost. Things that are powerful, but require a turn or two or a mana investment. Stuff that sues energy, or stuff like minds eye (the pay 1 draw)
+Not conceding. Just because you know youre about to lose doesnt mean they do. It also lets you see more of their deck, which can help with sideboard choices. 
+When selecting a card, dont just think about how it will do in a perfect scenario. Also think about how it will do in bad one. 
+http://magic.wizards.com/en/articles/archive/limited-information/tools-trade-2015-06-17]]
+
+[[READ THIS, DIDNT WORK ON TABLET https://www.reddit.com/r/magicTCG/comments/2ebnra/quadrant_theory_how_to_evaluate_cards_more/]]
+imagine a grid
+	|
+	|
+----|----
+	|
+	|
+	
+top left is parity
+top right is ahead
+bottom left is opening 
+bottom right is behind
+
+Read this again and incorporate it: http://magic.wizards.com/en/articles/archive/li/quadrant-theory-2014-08-20
+Same: http://www.manaleak.com/mtguk/2017/06/what-is-mtg-quadrant-theory-and-what-do-you-do-when-it-doesnt-work/
+
+A good deck will look like a circle, or at least have a few in each grid, with the moajoirty being early and parity 
+
+Take into account the set you are drafting. If it is a synergy heavy set then you can influence your rankings based on if you have a synergous card or have the chance of getting one (better rnk if the card you need is a common)
+Also, obviously, if you have settled into two colours take that into account. Hate drafting, while still a thing, will be discussed later. 	
+
+Talk about how much each quadrant is weighted. If you are ahead, you dont really care. If you are behind, you need something great. 
+
+[[Find a card that fits all four quadrants (doom blade or path to exile?), and find four cards that each fit a seperate quadrant]]
+[[Also talk about how some cards (like Illusory Angel) can be hard to define]]
+
+Different playerds can be in different quadrnts
+Not all quads will be hit by a player 
+Openeing is probably the most important part of the game. It is where you say "I am here" and attempt to dominate the board. If you have a better opening than your opponent, it is hard for them to recover. 
+
+Opening or Developing. Both players are playing cards from their opening hands, and establishing themselves as the aggressor or the control player. This is the early part of the game, and one that is critical to how the rest of the game will play out.
+Parity. Both players have played most or all of the spells from their hands, but neither has been able to establish a dominating board position. It's a stalemate, with the top of the deck providing the only fuel available to both players.
+Winning. You have two big flying creatures attacking in the air while your walls gum up the ground, for example. If nothing changes, you win the game in three turns. This is one possible winning board state.
+Losing. See Winning, but the opposite. You are being beaten down by some threats you can't handle, and you need an answer fast.
+
+Parity is when both players are at rluvhly the same state. usually, when tjis happens, neither player can attack for one pf twp reasons:
+- the other will block, either wiping the board or coming oit ahead
+- it will leave them open to too much damage 
+
+examples of tjis state include
+    One player has an important creature [[nsme sometjing powerful without first strike]] and the ogher player can kill it (with sometjing like [[deathtouch]])
+	both players have roughly the same amount of creatures
+	the other player has sometjkng that cannot bekilled (like oketra double strike god)
+	noth players jave roughly tje same amount of creatures
+
+a card fits in the Parity quad if it xan help you escape this state. spot removal fots here, disablers (ie arrest) fot here, neutees fit here (ie -x, -0). board wipes do not fit in tjis sectiom, as they result in parity. card draw fits here, discaed fots here, land destruction fits here.
+
+Ahead is when you are ahead. the cards for this section either keep you here or put you farther ahead. 
+
+cant remember tjis qiad
+
+Behind are carss that help you escape from a bad position. this is where board wipes belong. card draw fits here as well, if it is powerful enough. mass token generatipm fits here. anything thatworsens your opponents state while advancing yours nelongs here.
+	
+a card should fit in one of those quadrants (hence the name of the drafting style). the cllser to thw center a card is, the mlre well rounded, the more opportumoty to be useful, but not necessarily more powweful.
+
+of course, you should not go too into a single quad. you should diversify, so you will always havd a good play to make. 
+
+[[examples]]
+
+
+as you may have noticed, many cards fit in multiple quadrants. a good deck will, wjen laid out on the grid, look like an eyeball, a circular outside with a dot in the middle ([[is tjis true? add a pocture here). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

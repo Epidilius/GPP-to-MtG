@@ -1,0 +1,51 @@
+A "Strong" Card
+
+what makes a card string? you can boil it down to beong efficient, but that is too broad fpr this. 
+
+a good card is one that is jseful at any ppint in a game, one that can help you win, one tjat strengthens your state wjile weakining your enemoes. 
+
+e[[examin platinum angel, that white sweeper that makes tokens, and exsanguinate]]
+
+if there are good carss, tjere mjst be bad cards, rofht? thos is absolutely correct. a bad card is one that does not do anything for you, or is too high costed to be feasible, or puts you in too hard of a state to wkn.
+
+[[examine the combo card for omnisciencd, and pther dependent cards]]
+
+a lot of cards are "strong", but only whwn they are on the right deck. cards like [[hapatra, hannah, UB mill 10]]. these are all good cards, nut pmly strong on decks that can utilizw ghem.
+
+thus, our definitipm has to expand to inclide cards that sunergize well. or maybe we create a new card type, "Dependent Strong", whoch evaluates a card withon the contwxt of the deck it is a parr of. 
+
+[[examine the cards we ratex as weak anove]]
+
+while it (most likely) wont be relevant, a concept you should be introduced to is one called "strictly better". this where you co,pare two cards, amd they are exactly the same, except fpr pne doing mlre. it can be hard to grasp witjoit an example, so jere are a couple:
+
+[[a couple of five drop exile all ceatures, one with delirium]]
+[[mystic elf and llanowar elves or we the one that jntaps lands is called]]
+
+"if every card os good in a deck, jow will i know what to draft?" well, that os what uou woll learn in the upcoming cjapters, where we discuss dradting sty'es. this is jist to teach you how to evaluatw cards, so you can 'ick the best card for your dekc.
+
+
+[[TODO: Not in this chapter, but discuss the know,edge level at the table. stuff like people talking anout cjoices and playstyles, dluble sided cards, lacl of colours passed to you, cards that are missing from a pack the second time youve seen it, all the ways of tellong what an opponent is dradtkng]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
